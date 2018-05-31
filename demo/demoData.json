@@ -1,0 +1,9 @@
+[
+  { "name": "Afghanistan", "value": 20 },
+  { "name": "Pakistan", "value": 40 },
+  { "name": "Iraq", "value": 80 },
+  { "name": "Albania", "value": 200 },
+  { "name": "Mongolia", "value": 100 },
+  { "name": "Colombia", "value": 60 },
+  { "name": "Argentina", "value": 150 }
+]
