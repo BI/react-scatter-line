@@ -1,6 +1,7 @@
 import ReactDOM from 'react-dom'
 import ScatterLine from '../src/ScatterLine'
 import demoData from './demoData.json'
+import './demo.scss'
 
 ReactDOM.render(
   <ScatterLine 

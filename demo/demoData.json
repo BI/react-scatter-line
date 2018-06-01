@@ -3,7 +3,7 @@
   { "name": "Pakistan", "value": 40 },
   { "name": "Iraq", "value": 80 },
   { "name": "Albania", "value": 200 },
-  { "name": "Mongolia", "value": 100 },
+  { "name": "Mongolia", "value": 100, "is_focus": true },
   { "name": "Colombia", "value": 60 },
   { "name": "Argentina", "value": 150 }
 ]
